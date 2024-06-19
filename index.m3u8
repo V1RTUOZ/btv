@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:292
+#EXT-X-MEDIA-SEQUENCE:293
 #EXT-X-TARGETDURATION:15
-#EXTINF:11.989, no desc
-index-292.ts
 #EXTINF:11.978, no desc
 index-293.ts
 #EXTINF:11.989, no desc
@@ -14,3 +12,5 @@ index-295.ts
 index-296.ts
 #EXTINF:11.978, no desc
 index-297.ts
+#EXTINF:11.989, no desc
+index-298.ts
