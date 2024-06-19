@@ -1,16 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:198
+#EXT-X-MEDIA-SEQUENCE:164
 #EXT-X-TARGETDURATION:15
+#EXT-X-DISCONTINUITY
 #EXTINF:11.989, no desc
-index-198.ts
+index-164.ts
 #EXTINF:11.978, no desc
-index-199.ts
+index-165.ts
 #EXTINF:11.989, no desc
-index-200.ts
+index-166.ts
 #EXTINF:11.978, no desc
-index-201.ts
+index-167.ts
 #EXTINF:11.989, no desc
-index-202.ts
+index-168.ts
 #EXTINF:11.978, no desc
-index-204.ts
+index-169.ts
